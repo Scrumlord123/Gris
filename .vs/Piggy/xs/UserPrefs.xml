@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1C52A29A-6F16-4FFF-A888-B97176CC2799}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Piggy/Program.cs">
+    <Files>
+      <File FileName="Piggy/Dice.cs" Line="23" Column="37" />
+      <File FileName="Piggy/PairOfDice.cs" Line="31" Column="48" />
+      <File FileName="Piggy/Player.cs" Line="32" Column="28" />
+      <File FileName="Piggy/Program.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Piggy" expanded="True">
+            <Node name="Piggy" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Piggy FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
